@@ -11,7 +11,7 @@
     "package.json"
   ],
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^2.6.4",
     "get-folder-size": "^1.0.1"
   },
   "repository": {
